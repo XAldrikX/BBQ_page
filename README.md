@@ -24,4 +24,4 @@ Como um extra eu adicionei funcionalidade ao formulário na página, agora ele a
 <br>
 <br>
 
-link para o deployment -->
+link para o deployment --> https://xaldrikx.github.io/BBQ_page/
