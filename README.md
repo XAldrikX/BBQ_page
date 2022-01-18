@@ -20,3 +20,8 @@ O intuito desse módulo foi desenvolver algumas técnicas em CSS para dar um pas
 <br>
 
 Como um extra eu adicionei funcionalidade ao formulário na página, agora ele apresenta uma mensagem personalizada com os dados que o usuário forneceu, e poderia fazer algo com os dados fornecidos como uma página de captura faz. 
+
+<br>
+<br>
+
+link para o deployment -->
