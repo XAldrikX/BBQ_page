@@ -1,6 +1,5 @@
 let emailCollectorForm = document.getElementById("Email-Collector")
 emailCollectorForm.addEventListener("submit", event => {
-    // Stop the default event behavior
     event.preventDefault()
 
     // use FormData to get the User's name and email    
