@@ -1,5 +1,12 @@
 # BBQ_page
 
+<div class="center">
+  <p>Desktop version:</p>
+    <img src="https://user-images.githubusercontent.com/88796366/155188227-259abe11-9327-4ff8-8261-74255aeff845.png" width=700px>
+  <p>Mobile version:</p>
+    <img src="https://user-images.githubusercontent.com/88796366/155188230-22810325-380d-4e9a-b6a9-b6a973666bba.png" width=400px>
+</div>
+
 O intuito desse módulo foi desenvolver algumas técnicas em CSS para dar um passo a mais no estilo de uma página, pequenos detalhes que fazem a diferença entre um site OK para um que realmente salta aos olhos.
 
 ### <--Conceitos utilizados -->
